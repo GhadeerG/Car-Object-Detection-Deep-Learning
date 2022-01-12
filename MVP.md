@@ -10,8 +10,7 @@ Our Smart Parking System (SPS) will:
 We used 3 pretrained models:
 -	Exception
 -	Vgg16
--	Resnet50
-The best one to fit the data was the Renest50.
+-	Resnet50 which is the best one to fit the data.
 
 <img width="1020" alt="Screen Shot 2022-01-12 at 8 12 07 PM" src="https://user-images.githubusercontent.com/93079431/149191308-c3620065-7529-49bc-a052-2489b6d5a5f1.png">
 
