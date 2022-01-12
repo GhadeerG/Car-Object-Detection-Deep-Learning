@@ -1,6 +1,7 @@
 # Smart Parking System (SPS)
-This is a deep learning project marks as the last project in the data science Bootcamp presented by SDAIA (Saudi Data and artificial intelligence authority)
-In line with SDAIA's vision of smart cities and with the increase of population in Saudi’s parking issues become common problem especially in the large and varied landmarks, work place, malls and so on.. 
+This is a deep learning project marks as the last project in the data science Bootcamp presented by SDAIA (Saudi Data and artificial intelligence authority).
+
+In line with SDAIA's vision of smart cities and with the increase of population in Saudi Arabia, parking issues become common problem especially in the large and varied landmarks, work place, malls and so on.. 
 
 Our Smart Parking System (SPS) will:
 - Check if the parking is occupied or not.
