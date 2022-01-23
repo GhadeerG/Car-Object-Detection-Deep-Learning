@@ -65,12 +65,15 @@ to use this approach use these files :
 
 4-object_detection_yolov5.py
 
-Referances
+# Referances
 github /ultralytics
 
 Roboflow
 
-done by
+# done by
+
 Jamilah Alharbi - Mohammed almalki
+
 Ghliah Maher - Yahya Alyoubi
+
 Ghadeer Alghamdi - Mohammeh Alajmi
